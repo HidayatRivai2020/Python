@@ -28,7 +28,7 @@
   - [`size`](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/cursor.py) (optional): the limit of line size
 - [`tell()`](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/cursor.py): get the current file position in a file stream
 - [`seek()`](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/cursor.py): set the current file position in a file stream and return the new position
-  - [`offset`s](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/cursor.py): number representing the position to set the current file stream position
+  - [`offset`](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/cursor.py): number representing the position to set the current file stream position
 - [`write()`](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/write_files.py): set text into file stream
 - [`close()`](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/read_files.py): close the file and set **closed** attribute into **true**
 
