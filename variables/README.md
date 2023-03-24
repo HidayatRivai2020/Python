@@ -27,6 +27,6 @@
 
 #### [split method](https://github.com/HidayatRivai2020/Python/tree/main/variables/string_split.py)
 - `split()`: separate string into List by space character
-    - `separator(optional)`: separate string into List by `separator`
+    - `separator`(optional): separate string into List by `separator`
 - get the list result by index --> `List[index]`
 - the separator will not be included in list result
