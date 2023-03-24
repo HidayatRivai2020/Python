@@ -23,7 +23,7 @@
 - `upper()`: Uppercase each character in string
 - `split()`: separate string into List
 
-#### [split method](https://github.com/HidayatRivai2020/Python/tree/main/variables/string_spliy.py)
+#### [split method](https://github.com/HidayatRivai2020/Python/tree/main/variables/string_split.py)
 - `split()`: separate string into List by space character
 - `split(separator)`: separate string into List by `separator`
 - get the list result by index --> `List[index]`
