@@ -3,9 +3,9 @@ Read and manipulate files
 
 ## [Open()](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/read_files.py) files
 - reading file in python use built in function `open()`
-- `open()` return value `file object`<br/>
-- close the file with `close()` method<br/>
-<br/>
+- `open()` return value `file object`
+- close the file with `close()` method
+
 `open(1, 2)` parameters:
 1. `filename` (mandatory): Path or location of the file
 2. `mode` (optional): combination of the first and second letter
