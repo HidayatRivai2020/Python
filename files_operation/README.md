@@ -6,7 +6,7 @@
 - `open()` return value **file object**
 - close the file with `close()` method
 
-### Open() parameters:
+### [Open()](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/read_files.py) parameters:
 1. `filename` (mandatory): Path or location of the file
 2. `mode` (optional): combination of the first and second letter
   - First char is how the file will be opened
