@@ -21,14 +21,14 @@
 ## [File Objects](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/read_files.py)
 ### File Object method:
 - [`read()`](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/read_files.py): read the value of files and return it as string
-  - [size](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/cursor.py) (optional): the number of bytes to return
+  - [`size`](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/cursor.py) (optional): the number of bytes to return
 - [`readlines()`](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/read_files.py): get the value of file as list and line as item
-  - [hint](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/cursor.py) (optional): the limit of line size
+  - [`hint`](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/cursor.py) (optional): the limit of line size
 - [`readline()`](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/read_files.py): get one line from the file
-  - [size](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/cursor.py) (optional): the limit of line size
+  - [`size`](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/cursor.py) (optional): the limit of line size
 - [`tell()`](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/cursor.py): get the current file position in a file stream
 - [`seek()`](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/cursor.py): set the current file position in a file stream and return the new position
-  - [offset](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/cursor.py): number representing the position to set the current file stream position
+  - [`offset`s](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/cursor.py): number representing the position to set the current file stream position
 - [`write()`](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/write_files.py): set text into file stream
 - [`close()`](https://github.com/HidayatRivai2020/Python/tree/main//files_operation/read_files.py): close the file and set **closed** attribute into **true**
 
