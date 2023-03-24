@@ -21,3 +21,5 @@
 
 ## list of contents
 - [Variables](https://github.com/HidayatRivai2020/Python/tree/main/variables)
+- [Files Operation](https://github.com/HidayatRivai2020/Python/tree/main/files_operation)
+- [Files CSV Operation](https://github.com/HidayatRivai2020/Python/tree/main/files_csv_operation)
