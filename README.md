@@ -19,5 +19,5 @@
 ## Hello World
 - `print("hello world")`
 
-## [Variables](https://github.com/HidayatRivai2020/Python/tree/main/variables)
-
+## list of contents
+- [Variables](https://github.com/HidayatRivai2020/Python/tree/main/variables)
