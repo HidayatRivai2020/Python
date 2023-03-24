@@ -1,5 +1,5 @@
 # [Python](https://www.python.org/about/gettingstarted/)
-- Python is a programming language that lets you work more quickly and integrate your systems more effectively.
+Python is a programming language that lets you work more quickly and integrate your systems more effectively.
 
 ## How to check python version
 - open a new terminal
