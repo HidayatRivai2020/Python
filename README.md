@@ -14,8 +14,10 @@
 - python files
     - create a python file with format `.py`
     - open a new terminal
-    - `python 'file_name'.py`
+    - `python file_name.py`
 
 ## Hello World
-- `print("hello world)`
+- `print("hello world")`
+
+## [Variables](https://github.com/HidayatRivai2020/Python/tree/main/variables)
 
