@@ -19,14 +19,14 @@
 
 ### [String method](https://github.com/HidayatRivai2020/Python/tree/main/variables/string_variable.py)
 - `capitalize()`: Uppercase first character in string
-- `format()`: apply variable into curly brackets inside string
-    - `args`: apply a string variable
-    - `kwargs`: apply more string variable
+- `format(1, 2)`: apply variable into curly brackets inside string
+    1. `args`: apply a string variable
+    2. `**kwargs`(optional): apply more string variable
 - `upper()`: Uppercase each character in string
 - `split()`: separate string into List
 
 #### [split method](https://github.com/HidayatRivai2020/Python/tree/main/variables/string_split.py)
-- `split()`: separate string into List by space character
-    - `separator`(optional): separate string into List by `separator`
+- `split(1)`: separate string into List by space character
+    1. `separator`(optional): separate string into List by `separator`
 - get the list result by index --> `List[index]`
 - the separator will not be included in list result
