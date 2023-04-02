@@ -39,5 +39,3 @@ string_list.sort()
 print(f"string_list in ascending order: {string_list}")
 string_list.sort(reverse=True)
 print(f"string_list in descending order: {string_list}")
-
-

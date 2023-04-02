@@ -21,5 +21,15 @@ Python is a programming language that lets you work more quickly and integrate y
 
 ## list of contents
 - [Variables](https://github.com/HidayatRivai2020/Python/tree/main/variables)
+    - string
+- [List](https://github.com/HidayatRivai2020/Python/tree/main/list)
+    - list method
+    - method with list as parameterss
 - [Files Operation](https://github.com/HidayatRivai2020/Python/tree/main/files_operation)
+    - open()
+    - file objects
+    - cursor
+    - with
 - [Files CSV Operation](https://github.com/HidayatRivai2020/Python/tree/main/files_csv_operation)
+    - csv method
+    - dialect
