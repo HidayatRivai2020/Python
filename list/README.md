@@ -8,16 +8,16 @@
 - `string[start:size]`: to get the value of character from index `start` until before index `end`
 
 ## [List Method](https://github.com/HidayatRivai2020/Python/tree/main/list/list_method.py)
-- `append(1)`: add item into the end of list
-    1. `value`: the value that will be added into list
-- `insert(1, 2)`: add item into the index position in list
-    1. `index`: the location where item will be inserted
-    2. `value`: the value that will be added into list
-- `pop(1)`: remove item and return the removed value
-    1. `index`(default=last): pop item at specific index
+- `append(value)`: add item into the end of list
+    - `value`: the value that will be added into list
+- `insert(index, value)`: add item into the index position in list
+    - `index`: the location where item will be inserted
+    - `value`: the value that will be added into list
+- `pop(index)`: remove item and return the removed value
+    - `index`(default=last): pop item at specific index
 - `reverse()`: reverse the order of the list item
 - `sort()`: sort the item list in order ascending
 
 ## [Method with list as parameter](https://github.com/HidayatRivai2020/Python/tree/main/list/method_with_list.py)
-- `sorted(1)`: return a new list in ascending of order
-    - 1. `list`: the old list where the value will be ordered in a new list 
+- `sorted(list)`: return a new list in ascending of order
+    - `list`: the old list where the value will be ordered in a new list 
