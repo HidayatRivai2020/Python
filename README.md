@@ -38,3 +38,7 @@ Python is a programming language that lets you work more quickly and integrate y
     - csv method
     - dialect
 - [Tuples](https://github.com/HidayatRivai2020/Python/tree/main/tuples)
+    - Tuples
+- [Flow Control](https://github.com/HidayatRivai2020/Python/tree/main/flow_control/)
+    - comparison operator
+    - logical operator
