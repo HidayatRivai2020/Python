@@ -30,3 +30,7 @@
     - `separator`(optional): separate string into List by `separator`
 - get the list result by index --> `List[index]`
 - the separator will not be included in list result
+
+## [Boolean](https://github.com/HidayatRivai2020/Python/tree/main/variables/boolean_variable.py)
+- basic building block for logic and control flow
+- true or false value

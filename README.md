@@ -21,7 +21,8 @@ Python is a programming language that lets you work more quickly and integrate y
 
 ## list of contents
 - [Variables](https://github.com/HidayatRivai2020/Python/tree/main/variables)
-    - string
+    - String
+    - Boolean
 - [List](https://github.com/HidayatRivai2020/Python/tree/main/list)
     - list method
     - method with list as parameters
@@ -36,3 +37,4 @@ Python is a programming language that lets you work more quickly and integrate y
 - [Files CSV Operation](https://github.com/HidayatRivai2020/Python/tree/main/files_csv_operation)
     - csv method
     - dialect
+- [Tuples](https://github.com/HidayatRivai2020/Python/tree/main/tuples)

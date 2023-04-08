@@ -4,8 +4,7 @@
 - each element spaced out by a comma
 - ecach element can be accessed by `list[index]`
 - index start from 0
-- `string[index]`: to get the value of character in `index`
-- `string[start:size]`: to get the value of character from index `start` until before index `end`
+- minus index will start from the last element
 
 ## [List Method](https://github.com/HidayatRivai2020/Python/tree/main/list/list_method.py)
 - `append(value)`: add item into the end of list
