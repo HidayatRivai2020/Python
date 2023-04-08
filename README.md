@@ -43,5 +43,9 @@ Python is a programming language that lets you work more quickly and integrate y
     - comparison operator
     - logical operator
 - [Control](https://github.com/HidayatRivai2020/Python/tree/main/control/)
-    - comparison operator
-    - logical operator
+    - if control
+- [Loops](https://github.com/HidayatRivai2020/Python/tree/main/loops/)
+    - for in range
+    - for in
+    - while
+    - loop statement
