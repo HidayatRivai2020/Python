@@ -49,3 +49,7 @@ Python is a programming language that lets you work more quickly and integrate y
     - for in
     - while
     - loop statement
+- [Functions](https://github.com/HidayatRivai2020/Python/tree/main/functions/)
+    - for in
+    - while
+    - loop statement
