@@ -1,5 +1,5 @@
 # [Python](https://www.python.org/about/gettingstarted/)
-Python is a programming language that lets you work more quickly and integrate your systems more effectively.
+- Python is a programming language that lets you work more quickly and integrate your systems more effectively.
 
 ## How to check python version
 - open a new terminal
@@ -15,6 +15,9 @@ Python is a programming language that lets you work more quickly and integrate y
     - create a python file with format `.py`
     - open a new terminal
     - `python file_name.py`
+
+## More
+- `pycache`: cache to run python faster
 
 ## Hello World
 - `print("hello world")`
@@ -62,3 +65,6 @@ Python is a programming language that lets you work more quickly and integrate y
     - method
     - inheritance
     - special method
+- [Modules](https://github.com/HidayatRivai2020/Python/tree/main/modules/)
+    - module
+    - package
