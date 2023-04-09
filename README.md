@@ -53,3 +53,12 @@ Python is a programming language that lets you work more quickly and integrate y
     - for in
     - while
     - loop statement
+- [Error Handling](https://github.com/HidayatRivai2020/Python/tree/main/error_handling/)
+    - try, except, finally
+- [Object Oriented Programming](https://github.com/HidayatRivai2020/Python/tree/main/oop/)
+    - class
+    - constructor
+    - attribute
+    - method
+    - inheritance
+    - special method
