@@ -1,8 +1,8 @@
-# [Modules](https://github.com/HidayatRivai2020/Python/tree/main/module/module.py)
+# [Modules](https://github.com/HidayatRivai2020/Python/tree/main/modules/module.py)
 - multiple python file when create a complex python code
 - using format `from module import something`
 
-# [Packages](https://github.com/HidayatRivai2020/Python/tree/main/module/packages.py)
+# [Packages](https://github.com/HidayatRivai2020/Python/tree/main/modules/packages.py)
 - folder for multiple python file when create a complex python code
 - using format `from package.module import something`
 
