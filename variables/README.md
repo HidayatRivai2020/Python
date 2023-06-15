@@ -1,6 +1,7 @@
 # Variables
 - The place where the values can be stored
 - `variables = 'values'`
+- `variables1, variables2, variables3 = values1, values2, values3`
 
 ## [String](https://github.com/HidayatRivai2020/Python/tree/main/variables/string_variable.py)
 - variable with the text values
