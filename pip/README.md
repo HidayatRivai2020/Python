@@ -3,5 +3,5 @@
 - installed when installing python from python.org or anaconda distribution
 
 # How to install external packages
-- `pip instal packages`: install the latest packages
-- `pip instal packages==version`: install the packages with specific version
+- `pip install packages`: install the latest packages
+- `pip install packages==version`: install the packages with specific version
