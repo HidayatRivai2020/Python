@@ -26,6 +26,10 @@
 - [Variables](https://github.com/HidayatRivai2020/Python/tree/main/variables)
     - String
     - Boolean
+    - Integer
+    - Float
+- [Arithmetic Operation](https://github.com/HidayatRivai2020/Python/tree/main/arithmetic_operation)
+    - Arithmetic Operation
 - [List](https://github.com/HidayatRivai2020/Python/tree/main/list)
     - list method
     - method with list as parameters

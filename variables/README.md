@@ -35,10 +35,10 @@
 - basic building block for logic and control flow
 - true or false value
 
-## [Integer](https://github.com/HidayatRivai2020/Python/tree/main/variables/boolean_variable.py)
+## [Integer](https://github.com/HidayatRivai2020/Python/tree/main/variables/integer_variable.py)
 - Variable with integers number
 - can be used in arithmatic operational
 
-## [Float](https://github.com/HidayatRivai2020/Python/tree/main/variables/boolean_variable.py)
+## [Float](https://github.com/HidayatRivai2020/Python/tree/main/variables/float_variable.py)
 - Variable with float number
 - can be used in arithmatic operational
