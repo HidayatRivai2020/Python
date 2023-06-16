@@ -18,16 +18,22 @@
 
 ## More
 - `pycache`: cache to run python faster
+- indentation sensitive
+- case sensitive
 
 ## Hello World
 - `print("hello world")`
 
 ## list of contents
 - [Variables](https://github.com/HidayatRivai2020/Python/tree/main/variables)
+    - Naming Convention
     - String
     - Boolean
     - Integer
     - Float
+    - Variable Conversion
+- [Input](https://github.com/HidayatRivai2020/Python/tree/main/input)
+    - input
 - [Arithmetic Operation](https://github.com/HidayatRivai2020/Python/tree/main/arithmetic_operation)
     - Arithmetic Operation
 - [List](https://github.com/HidayatRivai2020/Python/tree/main/list)

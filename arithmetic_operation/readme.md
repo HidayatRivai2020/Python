@@ -6,4 +6,5 @@
     - Times --> `*`
     - Divided By --> `/`
     - Square --> `**`
+    - Paranthesis --> ()
 - Divided By between number will return **Float**

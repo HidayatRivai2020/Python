@@ -4,6 +4,14 @@
 - `variables = 'values'`
 - `variables1, variables2, variables3 = values1, values2, values3`
 
+## Naming Convention
+- can contain letters (a-zA-z), digits (0-9), and underscore
+- can't start with a number
+- don't use special characters
+- can't be reserved words
+- use snake_case for variable names and PascalCase for class names
+- don't use words that have sppecial meanings or already defined
+
 ## [String](https://github.com/HidayatRivai2020/Python/tree/main/variables/string_variable.py)
 - variable with the text values
 - using single or double quotes
@@ -44,3 +52,12 @@
 ## [Float](https://github.com/HidayatRivai2020/Python/tree/main/variables/float_variable.py)
 - Variable with float number
 - can be used in arithmatic operational
+
+### [round method](https://github.com/HidayatRivai2020/Python/tree/main/variables/round_method.py)
+- `round(number, digits)`: returns a floating point number that is a rounded version of the specified number
+    - `number`: The number to be rounded
+    - `separator`(optional, default = 0): The number of decimals to use when rounding the numbers
+
+## variable conversion
+- `new_type(variable)`: convert the variable into new data type
+    - `variable`: the variable that want to be converted
