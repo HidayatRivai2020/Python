@@ -10,7 +10,7 @@
 - don't use special characters
 - can't be reserved words
 - use snake_case for variable names and PascalCase for class names
-- don't use words that have sppecial meanings or already defined
+- don't use words that have special meanings or already defined
 
 ## [String](https://github.com/HidayatRivai2020/Python/tree/main/variables/string_variable.py)
 - variable with the text values
@@ -58,6 +58,6 @@
     - `number`: The number to be rounded
     - `separator`(optional, default = 0): The number of decimals to use when rounding the numbers
 
-## variable conversion
+## [variable conversion](https://github.com/HidayatRivai2020/Python/tree/main/variables/variable_conversion.py)
 - `new_type(variable)`: convert the variable into new data type
     - `variable`: the variable that want to be converted
