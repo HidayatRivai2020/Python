@@ -75,6 +75,7 @@
     - method
     - inheritance
     - special method
+- [Built-in Method](https://github.com/HidayatRivai2020/Python/tree/main/builtin_method/)
 - [Modules](https://github.com/HidayatRivai2020/Python/tree/main/modules/)
     - module
     - package
