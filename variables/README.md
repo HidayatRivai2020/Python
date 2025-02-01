@@ -1,7 +1,10 @@
 # Variables
 - The place where the values can be stored
 - variables saved in RAM
+- variables can store new values
+- variables can store the value from other variables
 - `variables = 'values'`
+- `variables = otherVariables`
 - `variables1, variables2, variables3 = values1, values2, values3`
 
 ## Naming Convention
