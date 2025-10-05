@@ -1,5 +1,6 @@
 # [Python](https://www.python.org/about/gettingstarted/)
 - Python is a programming language that lets you work more quickly and integrate your systems more effectively.
+- Current version: 3.11.4
 
 ## How to check python version
 - open a new terminal
@@ -15,6 +16,9 @@
     - create a python file with format `.py`
     - open a new terminal
     - `python file_name.py`
+- interpreter
+    - `source code`: text file with python instruction
+    - `interpreter`: translation tool to translate from python into real computer command
 
 ## More
 - `pycache`: cache to run python faster
@@ -32,6 +36,8 @@
     - Integer
     - Float
     - Variable Conversion
+- [Comments](https://github.com/HidayatRivai2020/Python/tree/main/comments)
+    - comments
 - [Input](https://github.com/HidayatRivai2020/Python/tree/main/input)
     - input
 - [Arithmetic Operation](https://github.com/HidayatRivai2020/Python/tree/main/arithmetic_operation)

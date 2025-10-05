@@ -4,7 +4,13 @@
     - Plus --> `+`
     - Minus --> `-`
     - Times --> `*`
-    - Divided By --> `/`
+    - Standard Division --> `/`
+    - Integer Division --> `//`
     - Square --> `**`
+    - Modulo --> `%`
     - Paranthesis --> ()
-- Divided By between number will return **Float**
+- Standard division between number will return **Float**
+- Integer division between number will return
+    - **the nearest whole number rounded down**
+    - if both of numbers are integer, it will return **Integer**
+    - if one of the numbers are float is float, it will return **Float**

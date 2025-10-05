@@ -1,11 +1,12 @@
 # Variables
-- The place where the values can be stored
+- The place where the values can be stored for future use
 - variables saved in RAM
 - variables can store new values
 - variables can store the value from other variables
 - `variables = 'values'`
 - `variables = otherVariables`
 - `variables1, variables2, variables3 = values1, values2, values3`
+- data-type automatically based on the last value
 
 ## Naming Convention
 - can contain letters (a-zA-z), digits (0-9), and underscore
@@ -23,12 +24,12 @@
 - started on index 0
 - `string[index]`: to get the value of character in `index`
 - `string[start:size]`: to get the value of character from index `start` until before index `end`
+- `escape character`: represented by a backlash (\) to introduce special character within string that imposible to include directly
 
 ### [String combination](https://github.com/HidayatRivai2020/Python/tree/main/variables/string_combination.py)
 - `string1 + string2`: using `+` symbol between two string
 - `f"insert some {string_variable} here`: the value of string_variable will be applied
 - `"combine this {} and this {}".format(string1, string2)"`: each string inside format will be applied inside each curly bracket
-
 
 ### [String method](https://github.com/HidayatRivai2020/Python/tree/main/variables/string_variable.py)
 - `capitalize()`: Uppercase first character in string
@@ -46,15 +47,20 @@
 
 ## [Boolean](https://github.com/HidayatRivai2020/Python/tree/main/variables/boolean_variable.py)
 - basic building block for logic and control flow
-- true or false value
+- True or False value
 
 ## [Integer](https://github.com/HidayatRivai2020/Python/tree/main/variables/integer_variable.py)
 - Variable with integers number
 - can be used in arithmatic operational
+- underscore (_) can be used in integer and it does not change the meaning of the numbers (python 3.6 or higher)
+- scientific notation: using `e-(total_of_zero)`
+- octal numbers: using `0o(number)`
+- hexal numbers: using `0x(number)`
 
 ## [Float](https://github.com/HidayatRivai2020/Python/tree/main/variables/float_variable.py)
 - Variable with float number
 - can be used in arithmatic operational
+- separated by dots (.)
 
 ### [round method](https://github.com/HidayatRivai2020/Python/tree/main/variables/round_method.py)
 - `round(number, digits)`: returns a floating point number that is a rounded version of the specified number
