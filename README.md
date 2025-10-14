@@ -1,6 +1,14 @@
 # [Python](https://www.python.org/about/gettingstarted/)
 - Python is a programming language that lets you work more quickly and integrate your systems more effectively.
 - Current version: 3.11.4
+- Script or interpreted langauge
+
+## Python interpreter behaviour
+- typically reads code from top to bottom
+- throws error based on checking:
+    - lexis: vocabulary of a programming language
+    - syntax: set of rules that define the structure of a programming language
+    - semanctics: the meaning of code and what it does when executed
 
 ## How to check python version
 - open a new terminal
