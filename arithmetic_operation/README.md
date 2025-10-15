@@ -27,6 +27,7 @@
     - default value: +
 
 ## Order of Operators
-- **
-- * / // %
-- + -
+- `**`
+- `*` `/` `//` `%`
+- `+` `-`
+
