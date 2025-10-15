@@ -16,6 +16,7 @@
     - **the nearest whole number rounded down**
     - if both of numbers are integer, it will return **Integer**
     - if one of the numbers are float is float, it will return **Float**
+- Exponentation operator (`**`) uses the right-sided binding
  
 ## Type of Operators
 - Binary Operators
