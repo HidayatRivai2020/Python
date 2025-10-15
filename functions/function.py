@@ -6,6 +6,10 @@ def say_hello():
 def say_name(name):
     print("hello " + name)
 
+# with keyword parameter
+def give_item(name, item=0):
+    print("hello " + name + ", I give you " + item + "items")
+
 # with return
 def get_full_name(name1, name2):
     return name1 + " " + name2
@@ -27,3 +31,6 @@ number = check_number(4)
 print("number 4 is {}".format(number))
 number = check_number(15)
 print("number 15 is {}".format(number))
+
+give_item("jack")
+give_item("john", 10)
