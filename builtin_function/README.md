@@ -1,8 +1,19 @@
 # Built-in Function
 
-## [print()](https://github.com/HidayatRivai2020/Python/tree/main/builtin_function/print_function.py)
+## L
+
+### [len](https://github.com/HidayatRivai2020/Python/tree/main/builtin_function/len_function.py)
+- Return the length (the number of items) of an object.
+- The argument may be a sequence (such as a string, bytes, tuple, list, or range) or a collection (such as a dictionary, set, or frozen set).
+- Raises OverflowError on lengths larger than sys.maxsize
+- format: `len(object)`
+  - `object`: sequence or collection
+
+## P
+
+### [print()](https://github.com/HidayatRivai2020/Python/tree/main/builtin_function/print_function.py)
+- Print objects to the text stream file
 - Format : `print(*objects, sep=' ', end='\n', file=None, flush=False)`
-  - Print objects to the text stream file, 
   - `*objects` : parameters that will be printed in the text stream file
   - `sep` : Specify how to separate the objects, if there is more than one
   - `end` : Specify what to print at the end
