@@ -68,5 +68,6 @@
     - `separator`(optional, default = 0): The number of decimals to use when rounding the numbers
 
 ## [variable conversion](https://github.com/HidayatRivai2020/Python/tree/main/variables/variable_conversion.py)
+- Often called as Type-Casting
 - `new_type(variable)`: convert the variable into new data type
     - `variable`: the variable that want to be converted
