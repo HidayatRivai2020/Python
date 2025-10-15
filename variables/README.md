@@ -62,6 +62,16 @@
 - can be used in arithmatic operational
 - separated by dots (.)
 
+### Floating Precision
+- The precision float number in python is limited
+- Float numbers are not 100% correct
+- Cause:
+    - Eveything is represented in the binary system at the lowest level of computer
+    - float numbers are stored in memory as very long chains of zeros and ones
+    - most float cannot be represented exactly as binary fractions
+    - as a consequence, the floats aproximated rounded when they are stored as binary numbers
+- This is not bug in python or code, but this is how computer works nowadays
+
 ### [round method](https://github.com/HidayatRivai2020/Python/tree/main/variables/round_method.py)
 - `round(number, digits)`: returns a floating point number that is a rounded version of the specified number
     - `number`: The number to be rounded
