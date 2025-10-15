@@ -18,3 +18,13 @@ elif is_admin:
     print("the password is not correct, but status is admin")
 else:
     print("the password is not correct")
+
+
+if password == other_password:
+    print("the password is correct")
+    if is_admin:
+        print("status is admin")
+    else:
+        print("status is guest"
+else:
+    print("the password is not correct")

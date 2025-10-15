@@ -77,7 +77,7 @@
     - `or` : return True if one values are true
     ~ `not`: revert the result
  
-## Operator Precedence
+## [Operator Precedence](https://github.com/HidayatRivai2020/Python/tree/main/basic_operation/operator_precedence.py)
 - Operator precedence describes the order in which operations are performed
 - Precendence order:
 - `()` --> Parentheses	
