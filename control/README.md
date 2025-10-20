@@ -4,6 +4,7 @@
 - block need indentation, the indentation is crucial.
 - `block`: group of command that are intended to be executed together
 -  `nested if`: using if inside if
+- `if variable in collection_var`: checking element presences in collection
 
 # [if control](https://github.com/HidayatRivai2020/Python/tree/main/control/if_control.py): 
 - `if`: First boolean check, execute block when boolean is True

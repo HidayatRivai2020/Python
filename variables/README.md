@@ -6,6 +6,7 @@
 - `variables = 'values'`
 - `variables = otherVariables`
 - `variables1, variables2, variables3 = values1, values2, values3`
+- swapping variables --> `var, var2 = var2, var1`
 - data-type automatically based on the last value
 
 ## Naming Convention

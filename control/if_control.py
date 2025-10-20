@@ -28,3 +28,6 @@ if password == other_password:
         print("status is guest"
 else:
     print("the password is not correct")
+
+if 'pass' in passwrod:
+    print('pass')
