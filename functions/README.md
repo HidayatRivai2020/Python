@@ -46,5 +46,3 @@ new_values = function_name_with_return_values(value1, value2):
 ## [Recursion](https://github.com/HidayatRivai2020/Python/tree/main/functions/recursion.py)
 - function that call itself
 - need condition to stop the recursive part
-
-## Generator

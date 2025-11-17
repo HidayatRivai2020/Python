@@ -39,12 +39,16 @@
 ## list of contents
 - [Variables](https://github.com/HidayatRivai2020/Python/tree/main/variables)
     - Naming Convention
+    - Swap Variable
+    - Variable Conversion
+    - Variable Scope
+- [Data Type](https://github.com/HidayatRivai2020/Python/tree/main/data_type)
     - String
     - Boolean
     - Integer
     - Float
-    - Variable Conversion
-    - Variable Scope
+    - None
+    - Generator
 - [Comments](https://github.com/HidayatRivai2020/Python/tree/main/comments)
 - [Input](https://github.com/HidayatRivai2020/Python/tree/main/input)
 - [Operation](https://github.com/HidayatRivai2020/Python/tree/main/basic_operation)
