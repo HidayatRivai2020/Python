@@ -37,6 +37,8 @@
 - `format(args, **kwargs)`: apply variable into curly brackets inside string
     - `args`: apply a string variable
     - `**kwargs`(optional): apply more string variable
+- `islower()`: check if the string are numeric only
+- `isnumeric()`: check if the string are lower-case only
 - `upper()`: Uppercase each character in string
 - `split()`: separate string into List
 

@@ -23,3 +23,8 @@ for x in cells:
 for i in cells:
     for j in i:
         print('cell:', j)
+
+# list inside tuple
+tuple_with_list = (1, 2, [3, 4], 5) 
+print(tuple_with_list)
+
