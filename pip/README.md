@@ -1,4 +1,4 @@
-# Pip
+# PIP
 - a simple way to download packages at your command line directly from the PyPi repository
 - installed when installing python from python.org or anaconda distribution
 

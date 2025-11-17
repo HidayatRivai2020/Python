@@ -1,14 +1,14 @@
 # [Python](https://www.python.org/about/gettingstarted/)
 - Python is a programming language that lets you work more quickly and integrate your systems more effectively.
 - Current version: 3.11.4
-- Script or interpreted langauge
+- Script or interpreted language
 
 ## Python interpreter behaviour
 - typically reads code from top to bottom
 - throws error based on checking:
     - lexis: vocabulary of a programming language
     - syntax: set of rules that define the structure of a programming language
-    - semanctics: the meaning of code and what it does when executed
+    - semantics: the meaning of code and what it does when executed
 
 ## How to check python version
 - open a new terminal
@@ -29,7 +29,7 @@
     - `interpreter`: translation tool to translate from python into real computer command
 
 ## More
-- `pycache`: cache to run python faster
+- `__pycache__`: cache to run python faster
 - indentation sensitive
 - case sensitive
 
@@ -45,12 +45,8 @@
     - Float
     - Variable Conversion
 - [Comments](https://github.com/HidayatRivai2020/Python/tree/main/comments)
-    - comments
 - [Input](https://github.com/HidayatRivai2020/Python/tree/main/input)
-    - input function
-- [Input](https://github.com/HidayatRivai2020/Python/tree/main/input)
-    - input
-- [Basic Operation](https://github.com/HidayatRivai2020/Python/tree/main/basic_operation)
+- [Operation](https://github.com/HidayatRivai2020/Python/tree/main/basic_operation)
     - Arithmetic Operation
     - Bitwise Operation
     - Comparison Operator
@@ -58,47 +54,42 @@
     - Operator Precedence
 - [Collection](https://github.com/HidayatRivai2020/Python/tree/main/collection)
     - List
-    - List method
-    - Method with list as parameters
+    - Tuples
+    - Dictionaries
     - Copying Collection
-- [Dictionaries](https://github.com/HidayatRivai2020/Python/tree/main/dictionaries)
-    - dictionary method
 - [Files Operation](https://github.com/HidayatRivai2020/Python/tree/main/files_operation)
-    - open()
-    - file objects
-    - cursor
-    - with
-- [Files CSV Operation](https://github.com/HidayatRivai2020/Python/tree/main/files_csv_operation)
+    - Open() files
+    - File Objects
+    - Cursor
+    - With Keyword
+- [CSV Files Operation](https://github.com/HidayatRivai2020/Python/tree/main/files_csv_operation)
     - csv method
     - dialect
-- [Tuples](https://github.com/HidayatRivai2020/Python/tree/main/tuples)
-    - Tuples
-
 - [Control](https://github.com/HidayatRivai2020/Python/tree/main/control/)
-    - if control
+    - If Control
 - [Loops](https://github.com/HidayatRivai2020/Python/tree/main/loops/)
-    - for in range
-    - for in
-    - while
-    - loop statement
-- [Functions](https://github.com/HidayatRivai2020/Python/tree/main/functions/)
-    - Function definition
-    - Parameters and arguments
-    - Return values
+    - For in Range
+    - For in
+    - While
+    - Loop Statement
+- [Function](https://github.com/HidayatRivai2020/Python/tree/main/functions/)
+    - Type of Parameters
 - [Error Handling](https://github.com/HidayatRivai2020/Python/tree/main/error_handling/)
-    - try, except, finally
-- [Object Oriented Programming](https://github.com/HidayatRivai2020/Python/tree/main/oop/)
-    - class
-    - constructor
-    - attribute
-    - method
-    - inheritance
-    - special method
+- [OOP](https://github.com/HidayatRivai2020/Python/tree/main/oop/)
+    - Constructor
+    - Class
+    - Attribute
+    - Method
+    - Inheritance
+    - Special Methods
 - [Built-in Function](https://github.com/HidayatRivai2020/Python/tree/main/builtin_function/)
-    - print
+    - len
+    - print()
 - [Modules](https://github.com/HidayatRivai2020/Python/tree/main/modules/)
-    - module
-    - package
+    - Packages
+    - Import
+- [PIP](https://github.com/HidayatRivai2020/Python/tree/main/pip/)
+    - How to install external packages
 
 
 # More Topics
