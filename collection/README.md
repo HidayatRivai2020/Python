@@ -51,7 +51,7 @@
 - `adding tuples`: use `+` to create a new tuples from combined two values of tuples together
 - `multiplying tuples`: use `*` to create a new tuples with repeated value of tuples multiple times
 
-# [Dictionaries](https://github.com/HidayatRivai2020/Python/tree/main/dictionaries/dictionaries.py)
+# [Dictionaries](https://github.com/HidayatRivai2020/Python/tree/main/collection/dictionaries.py)
 - data structure that store data in `"key":"value"` pairs
 - defined by curly brackets
 - each pairs spaced out by a comma
@@ -59,7 +59,7 @@
 - `string[key]`: to get the value of character in `key`
 - `key` use tuples only
 
-## [Dictionary Method](https://github.com/HidayatRivai2020/Python/tree/main/dictionaries/dictionary_method.py)
+## [Dictionary Method](https://github.com/HidayatRivai2020/Python/tree/main/collection/dictionary_method.py)
 - `items()`: `"key":"value"` pairs in `tuple` format
 - `keys()`: get only `keys`
 - `values()`: get only `values`

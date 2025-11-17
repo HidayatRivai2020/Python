@@ -32,13 +32,13 @@
 - `f"insert some {string_variable} here`: the value of string_variable will be applied
 - `"combine this {} and this {}".format(string1, string2)"`: each string inside format will be applied inside each curly bracket
 
-### [String method](https://github.com/HidayatRivai2020/Python/tree/main/variables/string_variable.py)
+### [String method](https://github.com/HidayatRivai2020/Python/tree/main/variables/string_method.py)
 - `capitalize()`: Uppercase first character in string
 - `format(args, **kwargs)`: apply variable into curly brackets inside string
     - `args`: apply a string variable
     - `**kwargs`(optional): apply more string variable
-- `islower()`: check if the string are numeric only
-- `isnumeric()`: check if the string are lower-case only
+- `islower()`: check if the string are lower-case only
+- `isnumeric()`: check if the string are numeric only
 - `upper()`: Uppercase each character in string
 - `split()`: separate string into List
 

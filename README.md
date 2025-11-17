@@ -47,14 +47,21 @@
 - [Comments](https://github.com/HidayatRivai2020/Python/tree/main/comments)
     - comments
 - [Input](https://github.com/HidayatRivai2020/Python/tree/main/input)
+    - input function
+- [Input](https://github.com/HidayatRivai2020/Python/tree/main/input)
     - input
-- [Arithmetic Operation](https://github.com/HidayatRivai2020/Python/tree/main/arithmetic_operation)
+- [Basic Operation](https://github.com/HidayatRivai2020/Python/tree/main/basic_operation)
     - Arithmetic Operation
-- [List](https://github.com/HidayatRivai2020/Python/tree/main/list)
-    - list method
-    - method with list as parameters
+    - Bitwise Operation
+    - Comparison Operator
+    - Logical Operator
+    - Operator Precedence
+- [Collection](https://github.com/HidayatRivai2020/Python/tree/main/collection)
+    - List
+    - List method
+    - Method with list as parameters
+    - Copying Collection
 - [Dictionaries](https://github.com/HidayatRivai2020/Python/tree/main/dictionaries)
-    - nested dictionary
     - dictionary method
 - [Files Operation](https://github.com/HidayatRivai2020/Python/tree/main/files_operation)
     - open()
@@ -66,9 +73,7 @@
     - dialect
 - [Tuples](https://github.com/HidayatRivai2020/Python/tree/main/tuples)
     - Tuples
-- [Flow Control](https://github.com/HidayatRivai2020/Python/tree/main/flow_control/)
-    - comparison operator
-    - logical operator
+
 - [Control](https://github.com/HidayatRivai2020/Python/tree/main/control/)
     - if control
 - [Loops](https://github.com/HidayatRivai2020/Python/tree/main/loops/)
@@ -77,9 +82,9 @@
     - while
     - loop statement
 - [Functions](https://github.com/HidayatRivai2020/Python/tree/main/functions/)
-    - for in
-    - while
-    - loop statement
+    - Function definition
+    - Parameters and arguments
+    - Return values
 - [Error Handling](https://github.com/HidayatRivai2020/Python/tree/main/error_handling/)
     - try, except, finally
 - [Object Oriented Programming](https://github.com/HidayatRivai2020/Python/tree/main/oop/)
