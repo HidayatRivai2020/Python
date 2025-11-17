@@ -1,3 +1,5 @@
 */__pycache__
 ./builtin_function/output/*
 ./idea
+.vscode
+.DS_Store
