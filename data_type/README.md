@@ -40,15 +40,15 @@
 
 ## [Integer](https://github.com/HidayatRivai2020/Python/tree/main/data_type/integer.py)
 - Variable with integers number
-- can be used in arithmatic operational
+- can be used in arithmetic operations
 - underscore (_) can be used in integer and it does not change the meaning of the numbers (python 3.6 or higher)
 - scientific notation: using `e-(total_of_zero)`
 - octal numbers: using `0o(number)`
-- hexal numbers: using `0x(number)`
+- hexadecimal numbers: using `0x(number)`
 
 ## [Float](https://github.com/HidayatRivai2020/Python/tree/main/data_type/float.py)
 - Variable with float number
-- can be used in arithmatic operational
+- can be used in arithmetic operations
 - separated by dots (.)
 
 ### Floating Precision
@@ -58,13 +58,13 @@
     - Eveything is represented in the binary system at the lowest level of computer
     - float numbers are stored in memory as very long chains of zeros and ones
     - most float cannot be represented exactly as binary fractions
-    - as a consequence, the floats aproximated rounded when they are stored as binary numbers
+    - as a consequence, the floats are approximated and rounded when they are stored as binary numbers
 - This is not bug in python or code, but this is how computer works nowadays
 
 ### [round method](https://github.com/HidayatRivai2020/Python/tree/main/data_type/round_method.py)
 - `round(number, digits)`: returns a floating point number that is a rounded version of the specified number
     - `number`: The number to be rounded
-    - `separator`(optional, default = 0): The number of decimals to use when rounding the numbers
+    - `digits`(optional, default = 0): The number of decimals to use when rounding the numbers
 
 ## [None](https://github.com/HidayatRivai2020/Python/tree/main/data_type/none.py)
 - special data type

@@ -34,14 +34,14 @@ my_object.method_name(x)
 ## [Method](https://github.com/HidayatRivai2020/Python/tree/main/oop/method.py)
 - `method`: function inside the class
 
-## [inheritance](https://github.com/HidayatRivai2020/Python/tree/main/oop/inheritance.py)
-- `method`: inherit method and attribute from parent class
+## [Inheritance](https://github.com/HidayatRivai2020/Python/tree/main/oop/inheritance.py)
+- `inheritance`: inherit method and attribute from parent class
 - `override`: overwrite some method from parent class in child class
 - `def ChildClass(ParentClass)`: how to inheritance from parent class into child class
 
 ## Special Methods
 - Sometimes called dunder method
-- pythin has built in predefined function
+- python has built in predefined function
 - object can interact with built in function
 - `__method__` to set the command when built in called for self defined object
 

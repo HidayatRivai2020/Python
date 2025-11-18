@@ -3,30 +3,30 @@
 - Current version: 3.11.4
 - Script or interpreted language
 
-## Python interpreter behaviour
+## Python Interpreter Behaviour
 - typically reads code from top to bottom
 - throws error based on checking:
     - lexis: vocabulary of a programming language
     - syntax: set of rules that define the structure of a programming language
     - semantics: the meaning of code and what it does when executed
 
-## How to check python version
+## How to Check Python Version
 - open a new terminal
-- python --version
+- `python --version`
 
-## How to run python
+## How to Run Python
 - command line
     - open a new terminal
     - `python`
     - write the command
     - `quit()` after it is done
 - python files
-    - create a python file with format `.py`
+    - create a Python file with format `.py`
     - open a new terminal
     - `python file_name.py`
 - interpreter
-    - `source code`: text file with python instruction
-    - `interpreter`: translation tool to translate from python into real computer command
+    - `source code`: text file with Python instructions
+    - `interpreter`: translation tool to translate from Python into real computer command
 
 ## More
 - `__pycache__`: cache to run python faster
@@ -36,7 +36,7 @@
 ## Hello World
 - `print("hello world")`
 
-## list of contents
+## List of Contents
 - [Variables](https://github.com/HidayatRivai2020/Python/tree/main/variables)
     - Naming Convention
     - Swap Variable
@@ -59,8 +59,10 @@
     - Operator Precedence
 - [Collection](https://github.com/HidayatRivai2020/Python/tree/main/collection)
     - List
+    - List Methods
     - Tuples
     - Dictionaries
+    - Dictionary Methods
     - Copying Collection
 - [Files Operation](https://github.com/HidayatRivai2020/Python/tree/main/files_operation)
     - Open() files
@@ -68,32 +70,38 @@
     - Cursor
     - With Keyword
 - [CSV Files Operation](https://github.com/HidayatRivai2020/Python/tree/main/files_csv_operation)
-    - csv method
-    - dialect
-- [Control](https://github.com/HidayatRivai2020/Python/tree/main/control/)
+    - CSV Methods
+    - Dialect
+- [Control](https://github.com/HidayatRivai2020/Python/tree/main/control)
     - If Control
-- [Loops](https://github.com/HidayatRivai2020/Python/tree/main/loops/)
+- [Loops](https://github.com/HidayatRivai2020/Python/tree/main/loops)
     - For in Range
     - For in
     - While
     - Loop Statement
-- [Function](https://github.com/HidayatRivai2020/Python/tree/main/functions/)
+- [Function](https://github.com/HidayatRivai2020/Python/tree/main/functions)
     - Type of Parameters
-- [Error Handling](https://github.com/HidayatRivai2020/Python/tree/main/error_handling/)
-- [OOP](https://github.com/HidayatRivai2020/Python/tree/main/oop/)
+- [Error Handling](https://github.com/HidayatRivai2020/Python/tree/main/error_handling)
+- [Exception](https://github.com/HidayatRivai2020/Python/tree/main/exception)
+    - Built-in Exceptions
+    - Custom Exceptions
+    - Exception Handling
+    - Raising Exceptions
+    - Exception Hierarchy
+- [OOP](https://github.com/HidayatRivai2020/Python/tree/main/oop)
     - Constructor
     - Class
     - Attribute
     - Method
     - Inheritance
     - Special Methods
-- [Built-in Function](https://github.com/HidayatRivai2020/Python/tree/main/builtin_function/)
-    - len
+- [Built-in Function](https://github.com/HidayatRivai2020/Python/tree/main/builtin_function)
+    - len()
     - print()
-- [Modules](https://github.com/HidayatRivai2020/Python/tree/main/modules/)
+- [Modules](https://github.com/HidayatRivai2020/Python/tree/main/modules)
     - Packages
     - Import
-- [PIP](https://github.com/HidayatRivai2020/Python/tree/main/pip/)
+- [PIP](https://github.com/HidayatRivai2020/Python/tree/main/pip)
     - How to install external packages
 
 

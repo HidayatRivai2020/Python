@@ -1,6 +1,6 @@
 # Collection
 - `sequence`: special data structure that can store more than one value and can be browsed
-- `collection`: data types that can store multiple values in a single variable'
+- `collection`: data types that can store multiple values in a single variable
 - `nested collection`: collection as data-type inside of collection
 - `list`: data structure that can hold elements in sequence
 - `tuples`: immutable data structure
@@ -30,10 +30,10 @@
     - `index`(default=last): pop item at specific index
 - `reverse()`: reverse the order of the list item
 - `sort(reverse=True)`: sort the item list in order ascending
-    - ``reverse`: sort item descending
+    - `reverse`: sort item descending
 
 ### [Method with list as parameter](https://github.com/HidayatRivai2020/Python/tree/main/collection/method_with_list.py)
-- method with list as it parameters
+- method with list as its parameters
 - gives back a new list and keep the original unchanged
 - `del list_name`: delete the list
 - `del list_name[index]`: delete element at the index
@@ -51,19 +51,19 @@
 - `adding tuples`: use `+` to create a new tuples from combined two values of tuples together
 - `multiplying tuples`: use `*` to create a new tuples with repeated value of tuples multiple times
 
-# [Dictionaries](https://github.com/HidayatRivai2020/Python/tree/main/collection/dictionaries.py)
+## [Dictionaries](https://github.com/HidayatRivai2020/Python/tree/main/collection/dictionaries.py)
 - data structure that store data in `"key":"value"` pairs
 - defined by curly brackets
 - each pairs spaced out by a comma
-- ecach element can be accessed by `list[key]`
-- `string[key]`: to get the value of character in `key`
-- `key` use tuples only
+- each element can be accessed by `dict[key]`
+- `dict[key]`: to get the value of character in `key`
+- `key` must be immutable (strings, numbers, tuples)
 
-## [Dictionary Method](https://github.com/HidayatRivai2020/Python/tree/main/collection/dictionary_method.py)
+### [Dictionary Method](https://github.com/HidayatRivai2020/Python/tree/main/collection/dictionary_method.py)
 - `items()`: `"key":"value"` pairs in `tuple` format
 - `keys()`: get only `keys`
 - `values()`: get only `values`
-- `updates({key:new_value})`: update the `value` on `keys`
+- `update({key:new_value})`: update the `value` on `keys`
 
 ## [Copying Collection](https://github.com/HidayatRivai2020/Python/tree/main/collection/copying_collection.py)
 - `references`: assigning a collection into new variable will copy the memory location where the collection is stored

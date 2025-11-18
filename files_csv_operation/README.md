@@ -1,6 +1,6 @@
 # CSV Files Operation
 - Read and manipulate CSV files
-- Python build in Library **csv**
+- Python built-in Library **csv**
 
 ## [csv method](https://github.com/HidayatRivai2020/Python/tree/main/files_csv_operation/csv_read.py)
 - [`reader(csvfile, dialect)`](https://github.com/HidayatRivai2020/Python/tree/main/files_csv_operation/csv_read.py): return **file object** which will iterate over lines in the given csvfile
@@ -10,7 +10,7 @@
   - [`csvfile`](https://github.com/HidayatRivai2020/Python/tree/main/files_csv_operation/csv_write.py): path or the location of csv file
   - [`dialect`](https://github.com/HidayatRivai2020/Python/tree/main/files_csv_operation/csv_dialect.py)(default='excel'): the type of how csv file will be opened.
 - [`list_dialect()`](https://github.com/HidayatRivai2020/Python/tree/main/files_csv_operation/csv_dialect.py): Return the names of all registered dialects.
-- [`register_dialect(name, f**mtparams)`](https://github.com/HidayatRivai2020/Python/tree/main/files_csv_operation/csv_dialect.py): Register new dialect
+- [`register_dialect(name, **fmtparams)`](https://github.com/HidayatRivai2020/Python/tree/main/files_csv_operation/csv_dialect.py): Register new dialect
   - `name`: Associate dialect with name
   - `**fmtparams` = same parameter with dialect
 

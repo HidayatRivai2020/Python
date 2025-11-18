@@ -1,4 +1,4 @@
-# Operation
+# Basic Operation
 - specific action that is performed on one or more operands using operators
 - Operator: Symbol that represent operations
 - Operands: the values or variables involved in the operations
@@ -19,7 +19,7 @@
     - **the nearest whole number rounded down**
     - if both of numbers are integer, it will return **Integer**
     - if one of the numbers are float is float, it will return **Float**
-- Exponentation operator (`**`) uses the right-sided binding
+- Exponentiation operator (`**`) uses the right-sided binding
  
 ### Arithmetic Operators Type
 - Binary Operators
@@ -75,11 +75,11 @@
 - operator
     - `and`: return True if both values are true
     - `or` : return True if one values are true
-    ~ `not`: revert the result
+    - `not`: revert the result
  
 ## [Operator Precedence](https://github.com/HidayatRivai2020/Python/tree/main/basic_operation/operator_precedence.py)
 - Operator precedence describes the order in which operations are performed
-- Precendence order:
+- Precedence order:
 - `()` --> Parentheses	
 - `**` --> Exponentiation	
 - `+x`, `-x`, `~x` --> Unary plus, unary minus, and bitwise NOT	
