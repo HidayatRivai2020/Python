@@ -2,6 +2,7 @@
 - Python is a programming language that lets you work more quickly and integrate your systems more effectively.
 - Current version: 3.11.4
 - Script or interpreted language
+- Free and open source
 
 ## Python Interpreter Behaviour
 - typically reads code from top to bottom

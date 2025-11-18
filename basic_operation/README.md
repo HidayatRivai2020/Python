@@ -14,11 +14,11 @@
     - Square --> `**`
     - Modulo --> `%`
     - Paranthesis --> ()
-- Standard division between number will return **Float**
-- Integer division between number will return
-    - **the nearest whole number rounded down**
+- Result of operation:
     - if both of numbers are integer, it will return **Integer**
     - if one of the numbers are float is float, it will return **Float**
+    - Standard division between number will return **Float**
+    - Integer division between number will return **the nearest whole number rounded down**
 - Exponentiation operator (`**`) uses the right-sided binding
  
 ### Arithmetic Operators Type
@@ -29,6 +29,31 @@
     - Work with one operands
     - operator: + and -
     - default value: +
+
+### [Augmented Assignment Operators](https://github.com/HidayatRivai2020/Python/tree/main/basic_operation/augmented_assignment.py)
+- Combination of assignment operator (=) with arithmetic or bitwise operators
+- Shorthand way to perform an operation and assign the result back to the variable
+- More concise and readable than writing the full expression
+- Operators:
+    - `+=` : Add and assign (equivalent to `x = x + y`)
+    - `-=` : Subtract and assign (equivalent to `x = x - y`)
+    - `*=` : Multiply and assign (equivalent to `x = x * y`)
+    - `/=` : Divide and assign (equivalent to `x = x / y`)
+    - `//=` : Floor divide and assign (equivalent to `x = x // y`)
+    - `**=` : Exponentiate and assign (equivalent to `x = x ** y`)
+    - `%=` : Modulo and assign (equivalent to `x = x % y`)
+    - `&=` : Bitwise AND and assign (equivalent to `x = x & y`)
+    - `|=` : Bitwise OR and assign (equivalent to `x = x | y`)
+    - `^=` : Bitwise XOR and assign (equivalent to `x = x ^ y`)
+    - `<<=` : Left shift and assign (equivalent to `x = x << y`)
+    - `>>=` : Right shift and assign (equivalent to `x = x >> y`)
+
+### Arithmetic Operators Priority
+1. `()`
+2. `+` and `-` in unary
+3. `**`
+4. `*`, `/`, `//`, and `%`
+5. `+` and `-` in binary
 
 ## [Bitwise operation](https://github.com/HidayatRivai2020/Python/tree/main/basic_operation/bitwise_operation.py)
 - Manipulate data at the binary level
@@ -93,3 +118,21 @@
 - `not` --> Logical NOT
 - `and` --> AND
 - `or` --> OR
+
+## [Augmented Assignment Operators](https://github.com/HidayatRivai2020/Python/tree/main/basic_operation/augmented_assignment.py)
+- Combination of assignment operator (=) with arithmetic or bitwise operators
+- Shorthand way to perform an operation and assign the result back to the variable
+- More concise and readable than writing the full expression
+- Operators:
+    - `+=` : Add and assign (equivalent to `x = x + y`)
+    - `-=` : Subtract and assign (equivalent to `x = x - y`)
+    - `*=` : Multiply and assign (equivalent to `x = x * y`)
+    - `/=` : Divide and assign (equivalent to `x = x / y`)
+    - `//=` : Floor divide and assign (equivalent to `x = x // y`)
+    - `**=` : Exponentiate and assign (equivalent to `x = x ** y`)
+    - `%=` : Modulo and assign (equivalent to `x = x % y`)
+    - `&=` : Bitwise AND and assign (equivalent to `x = x & y`)
+    - `|=` : Bitwise OR and assign (equivalent to `x = x | y`)
+    - `^=` : Bitwise XOR and assign (equivalent to `x = x ^ y`)
+    - `<<=` : Left shift and assign (equivalent to `x = x << y`)
+    - `>>=` : Right shift and assign (equivalent to `x = x >> y`)

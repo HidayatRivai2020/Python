@@ -2,6 +2,7 @@
 - Different types of data that can be stored and manipulated in Python
 - Python automatically determines data type based on the assigned value
 - Each data type has specific properties and methods
+- `Literal`: the value written in the code
 
 ## [String](https://github.com/HidayatRivai2020/Python/tree/main/data_type/string.py)
 - variable with the text values

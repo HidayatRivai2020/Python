@@ -1,4 +1,5 @@
 # [Function](https://github.com/HidayatRivai2020/Python/tree/main/functions/function.py)
+- part of code used to cause an effect or evaluate a value
 - block code that can be executed multiple times
 - `def` to declare a function
 - `parameters`: value that can be used when call a function
@@ -6,7 +7,17 @@
 - `function_name(value1, value2, keyword_parameter=value3)`: calling a function
 - call `function(arguments)` to execute the command inside function
 
-## [Arguments](https://github.com/HidayatRivai2020/Python/tree/main/functions/arguments.py)
+## Function Execution
+1. checks function name
+2. checks arguments passed
+3. jumps into the function
+4. executes the function
+5. returns to the code
+6. resume executions
+
+## Function Part
+
+### [Arguments](https://github.com/HidayatRivai2020/Python/tree/main/functions/arguments.py)
 - `positional arguments`:
     - arguments that provided to the functions in the order
     - `function_name(value1, value2)`: calling a function
@@ -25,7 +36,7 @@ function_name(value1, value2)
 
 ```
 
-## [Return](https://github.com/HidayatRivai2020/Python/tree/main/functions/with_return.py)
+### [Return](https://github.com/HidayatRivai2020/Python/tree/main/functions/with_return.py)
 - `return` will stop the function executions
 - `return new_value`: send back the result of the function.
 - function without `return` will return `none`
