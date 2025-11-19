@@ -1,3 +1,5 @@
+print("=== Generator ===")
+
 # Generator examples in Python
 
 # Generator function with yield keyword

@@ -1,6 +1,6 @@
 # Built-in Exceptions Examples
 
-print("=== Built-in Exceptions Examples ===\n")
+print("=== Built-in Exceptions Examples ===")
 
 # 1. ValueError - When a function receives an argument of correct type but inappropriate value
 print("1. ValueError Example:")

@@ -1,6 +1,4 @@
-# KeyboardInterrupt Examples
-
-print("=== KeyboardInterrupt Examples ===\n")
+print("=== KeyboardInterrupt Examples ===")
 
 import time
 import signal

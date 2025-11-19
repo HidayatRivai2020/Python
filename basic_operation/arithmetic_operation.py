@@ -1,3 +1,6 @@
+print("=== Arithmetic Operation ===")
+
+# Basic arithmetic operations
 number1 = 10
 number2 = 2
 

@@ -1,6 +1,6 @@
 # BaseException Examples
 
-print("=== BaseException Examples ===\n")
+print("=== BaseException Examples ===")
 
 # 1. Understanding BaseException hierarchy
 print("1. BaseException hierarchy demonstration:")

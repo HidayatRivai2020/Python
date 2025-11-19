@@ -60,11 +60,9 @@
     - Operator Precedence
 - [Collection](https://github.com/HidayatRivai2020/Python/tree/main/collection)
     - List
-    - List Methods
     - Tuples
     - Dictionaries
-    - Dictionary Methods
-    - Copying Collection
+s    - Copying Collection
 - [Files Operation](https://github.com/HidayatRivai2020/Python/tree/main/files_operation)
     - Open() files
     - File Objects
@@ -81,7 +79,11 @@
     - While
     - Loop Statement
 - [Function](https://github.com/HidayatRivai2020/Python/tree/main/functions)
-    - Type of Parameters
+    - Function Execution
+    - Function Part
+    - Arguments
+    - Return
+    - Recursion
 - [Error Handling](https://github.com/HidayatRivai2020/Python/tree/main/error_handling)
 - [Exception](https://github.com/HidayatRivai2020/Python/tree/main/exception)
     - Built-in Exceptions
@@ -97,11 +99,14 @@
     - Inheritance
     - Special Methods
 - [Built-in Function](https://github.com/HidayatRivai2020/Python/tree/main/builtin_function)
+    - float()
+    - input()
+    - int()
     - len()
     - print()
 - [Modules](https://github.com/HidayatRivai2020/Python/tree/main/modules)
-    - Packages
     - Import
+    - Packages
 - [PIP](https://github.com/HidayatRivai2020/Python/tree/main/pip)
     - How to install external packages
 

@@ -1,21 +1,4 @@
-print("=== Python Built-in Functions Examples ===\n")
-
-# 1. INPUT/OUTPUT FUNCTIONS
-print("1. INPUT/OUTPUT FUNCTIONS")
-print("-" * 40)
-
-# print() - Output function
-print("Hello, World!")
-print("Multiple", "values", "separated", "by", "space")
-print("Custom separator:", 1, 2, 3, sep=" - ")
-print("Custom ending", end=" --> ")
-print("continues here")
-
-# input() - would be used for user input (commented to avoid blocking)
-# name = input("Enter your name: ")
-# print(f"Hello, {name}!")
-
-print("\n" + "=" * 50 + "\n")
+print("=== Python Built-in Functions Examples ===")
 
 # 2. MATHEMATICAL FUNCTIONS
 print("2. MATHEMATICAL FUNCTIONS")
@@ -50,15 +33,6 @@ print("\n" + "=" * 50 + "\n")
 print("3. TYPE CONVERSION FUNCTIONS")
 print("-" * 40)
 
-# int()
-print(f'int("42") = {int("42")}')
-print(f"int(3.8) = {int(3.8)}")
-print(f'int("1010", 2) = {int("1010", 2)}')  # Binary to decimal
-
-# float()
-print(f'float("3.14") = {float("3.14")}')
-print(f"float(42) = {float(42)}")
-
 # str()
 print(f"str(42) = '{str(42)}'")
 print(f"str([1, 2, 3]) = '{str([1, 2, 3])}'")
@@ -83,10 +57,6 @@ print("-" * 40)
 
 data = [1, 2, 3, 4, 5]
 text_data = "Python"
-
-# len()
-print(f"len({data}) = {len(data)}")
-print(f'len("{text_data}") = {len(text_data)}')
 
 # range()
 print(f"list(range(5)) = {list(range(5))}")

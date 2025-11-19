@@ -1,6 +1,4 @@
-# LookupError Examples
-
-print("=== LookupError Examples ===\n")
+print("=== LookupError Examples ===")
 
 # 1. Catching both IndexError and KeyError with LookupError
 print("1. Unified lookup error handling:")

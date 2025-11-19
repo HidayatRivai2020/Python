@@ -1,6 +1,4 @@
-# ValueError Examples
-
-print("=== ValueError Examples ===\n")
+print("=== ValueError Examples ===")
 
 import math
 

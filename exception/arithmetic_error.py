@@ -1,6 +1,6 @@
 # ArithmeticError Examples
 
-print("=== ArithmeticError Examples ===\n")
+print("=== ArithmeticError Examples ===")
 
 import math
 

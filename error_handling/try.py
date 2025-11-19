@@ -1,3 +1,5 @@
+print("=== Error Handling ===")
+
 # execute try block
 try:
     print("this code will be executed")

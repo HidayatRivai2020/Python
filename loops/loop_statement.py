@@ -1,10 +1,12 @@
-# pass
+print("=== Loop Statement ===")
+
+# Pass statement (placeholder)
 for a in range(1, 5):
     pass
 
 print("----")
 
-# break
+# Break statement
 for a in range(1, 5):
     print(a)
     if a == 3:
@@ -12,7 +14,7 @@ for a in range(1, 5):
 
 print("----")
 
-# continue
+# Continue statement
 for a in range(1, 5):
     print(a)
     if a == 3:

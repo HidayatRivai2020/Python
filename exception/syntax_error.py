@@ -1,6 +1,4 @@
-# SyntaxError Examples
-
-print("=== SyntaxError Examples ===\n")
+print("=== SyntaxError Examples ===")
 
 # Note: Most SyntaxError examples cannot be in the same file as they would prevent
 # the script from running. These examples show how to catch SyntaxError when

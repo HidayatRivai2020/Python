@@ -1,3 +1,5 @@
+print("=== String Method ===")
+
 # upper() method converts all characters to uppercase
 uppercase_string = "this string call method upper"
 print(uppercase_string.upper())

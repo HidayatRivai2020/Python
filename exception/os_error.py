@@ -1,6 +1,4 @@
-# OSError Examples
-
-print("=== OSError Examples ===\n")
+print("=== OSError Examples ===")
 
 import os
 import tempfile

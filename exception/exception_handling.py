@@ -1,6 +1,6 @@
 # Exception Handling Examples
 
-print("=== Exception Handling Examples ===\n")
+print("=== Exception Handling Examples ===")
 
 # 1. Basic try-except
 print("1. Basic try-except:")
@@ -13,11 +13,8 @@ except ZeroDivisionError:
 print("2. Multiple specific exceptions:")
 def process_data(data):
     try:
-        # Convert to integer
         number = int(data)
-        # Divide by a random divisor
         result = 100 / number
-        # Access list element
         my_list = [1, 2, 3]
         value = my_list[number]
         return result, value
@@ -56,7 +53,6 @@ print("5. try-except-finally:")
 try:
     file = open("example.txt", "w")
     file.write("Hello World")
-    # Simulate an error
     result = 1 / 0
 except ZeroDivisionError:
     print("Error occurred while processing file")

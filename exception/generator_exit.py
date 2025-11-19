@@ -1,6 +1,4 @@
-# GeneratorExit Examples
-
-print("=== GeneratorExit Examples ===\n")
+print("=== GeneratorExit Examples ===")
 
 # 1. Basic GeneratorExit with generator.close()
 print("1. Basic GeneratorExit when closing generator:")

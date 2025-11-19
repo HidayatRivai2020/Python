@@ -1,6 +1,4 @@
-# TypeError Examples
-
-print("=== TypeError Examples ===\n")
+print("=== TypeError Examples ===")
 
 # 1. Basic TypeError examples
 print("1. Basic TypeError examples:")

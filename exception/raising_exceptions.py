@@ -1,6 +1,4 @@
-# Raising Exceptions Examples
-
-print("=== Raising Exceptions Examples ===\n")
+print("=== Raising Exceptions Examples ===")
 
 # 1. Basic raise statement
 print("1. Basic raise statement:")

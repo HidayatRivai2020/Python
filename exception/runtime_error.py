@@ -1,6 +1,4 @@
-# RuntimeError Examples
-
-print("=== RuntimeError Examples ===\n")
+print("=== RuntimeError Examples ===")
 
 import sys
 

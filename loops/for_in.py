@@ -1,11 +1,13 @@
-# list loop
+print("=== For In ===")
+
+# Looping through list
 fruits = ["apple", "banana", "orange"]
 for i in fruits:
     print(i)
     
 print("----")
 
-# Dictionaries loop
+# Looping through dictionary
 members = {"leader":"Jack", "fighter":"Night", "defender": "Harry", "support": "Stu"}
 for i in members:
     print("index: " + i)
@@ -13,7 +15,7 @@ for i in members:
 
 print("----")
 
-# Tuples in list loop
+# Looping through tuples in list
 mylist = [("a", "b"), ("c", "d"), (1, 2)]
 for items1, items2 in mylist:
     print("items 1: {}".format(items1))

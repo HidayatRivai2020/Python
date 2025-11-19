@@ -1,4 +1,6 @@
-# recursion example
+print("=== Recursion ===")
+
+# Recursive function example - factorial
 def factorial(n):
     # base case
     if n <= 1:
@@ -7,7 +9,7 @@ def factorial(n):
         # recursive case
         return n * factorial(n - 1)
 
-# test the factorial function
+# Test the factorial function with different values
 number = 5
 result = factorial(number)
 print("Factorial of {} is {}".format(number, result))

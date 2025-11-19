@@ -1,6 +1,4 @@
-# ImportError Examples
-
-print("=== ImportError Examples ===\n")
+print("=== ImportError Examples ===")
 
 # 1. Basic ImportError examples
 print("1. Basic ImportError examples:")

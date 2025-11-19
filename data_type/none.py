@@ -1,4 +1,6 @@
-# None variable
+print("=== None ===")
+
+# None variable declaration
 none_var = None
 print(none_var)  # prints "None"
 

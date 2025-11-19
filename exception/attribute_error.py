@@ -1,6 +1,4 @@
-# AttributeError Examples
-
-print("=== AttributeError Examples ===\n")
+print("=== AttributeError Examples ===")
 
 # 1. Basic AttributeError examples
 print("1. Basic AttributeError examples:")

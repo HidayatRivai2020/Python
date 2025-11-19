@@ -1,3 +1,6 @@
+print("=== Comparison Operator ===")
+
+# Comparison operators: <, <=, >, >=, ==, !=
 print("1 < 5 --> {}".format(1 < 5))
 print("1 <= 5 --> {}".format(1 <= 5))
 print("1 <= 1 --> {}".format(1 <= 1))

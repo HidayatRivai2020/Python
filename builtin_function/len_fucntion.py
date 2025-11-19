@@ -1,3 +1,5 @@
+print("=== len() Functions Examples ===")
+
 len('hello world')
 
 mylist = ["apple", "banana", "cherry"]

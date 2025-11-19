@@ -1,15 +1,17 @@
-# with parameter
+print("=== Arguments ===")
+
+# Function with parameter
 def say_name(name):
     print("hello " + name)
 
-# with keyword parameter
+# Function with keyword parameter (default value)
 def give_item(name, item=0):
     print("hello " + name + ", I give you " + str(item) + " items")
 
-# call say_name function
+# Function calls
 say_name("james")
 
-# call give_item function
+# Function calls with different parameters
 give_item("jack")
 give_item("john", 10)
 

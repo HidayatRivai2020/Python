@@ -1,6 +1,4 @@
-# SystemExit Examples
-
-print("=== SystemExit Examples ===\n")
+print("=== SystemExit Examples ===")
 
 import sys
 

@@ -1,9 +1,13 @@
+print("=== Tuples ===")
+
+# Basic tuple operations
 my_tuple = (1, 2, 3)
 print(my_tuple)
 print(my_tuple[0])
 print(my_tuple[1])
 print(my_tuple[2])
 
+# Nested structures with tuples
 # Tuples inside a tuple
 nested_tuple = (1, 2, (3, 4), 5)
 print(nested_tuple)  
