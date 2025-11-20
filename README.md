@@ -62,7 +62,7 @@
     - List
     - Tuples
     - Dictionaries
-s    - Copying Collection
+    - Copying Collection
 - [Files Operation](https://github.com/HidayatRivai2020/Python/tree/main/files_operation)
     - Open() files
     - File Objects
@@ -85,6 +85,8 @@ s    - Copying Collection
     - Return
     - Recursion
 - [Error Handling](https://github.com/HidayatRivai2020/Python/tree/main/error_handling)
+    - raise
+    - assert
 - [Exception](https://github.com/HidayatRivai2020/Python/tree/main/exception)
     - Built-in Exceptions
     - Custom Exceptions

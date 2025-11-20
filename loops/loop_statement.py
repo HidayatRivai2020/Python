@@ -1,6 +1,6 @@
 print("=== Loop Statement ===")
 
-# Pass statement (placeholder)
+# Pass statement
 for a in range(1, 5):
     pass
 

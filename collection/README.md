@@ -36,6 +36,7 @@
 - method with list as its parameters
 - gives back a new list and keep the original unchanged
 - `del list_name`: delete the list
+- `in list_name`: check the value inside a list
 - `del list_name[index]`: delete element at the index
 - `sorted(list_name)`: return a new list in ascending of order
     - `list_name`: the old list where the value will be ordered in a new list 
@@ -43,7 +44,7 @@
 ## [Tuples](https://github.com/HidayatRivai2020/Python/tree/main/collection/tuples.py)
 - similar to list but immutable (can not be changed/mutated)
 - have less method than lists
-- defined by parenthesis `()`
+- defined by parenthesis `()` or using comma `,`
 - each element separated by comma
 - can be accessed by `tuple[index]`
 - index started from zero

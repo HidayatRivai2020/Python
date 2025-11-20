@@ -8,6 +8,7 @@
 - `variables1, variables2, variables3 = values1, values2, values3`
 - swapping variables --> `var, var2 = var2, var1`
 - data-type automatically based on the last value
+- `scalar variable`: a variable that holds a single valur
 
 ## Naming Convention
 - can contain letters (a-zA-z), digits (0-9), and underscore
@@ -33,3 +34,5 @@
 - use keyword `global` to make the local variable can affect the global variable
 - shadowing only affected on assigned value
 - using method will affect the global variable too
+- changing the value of a variable inside l
+- scalar variable is local, but collection is global

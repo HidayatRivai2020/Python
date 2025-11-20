@@ -23,21 +23,6 @@
 - Allow for more specific error handling in applications
 - Created by defining a new class that inherits from Exception or its subclasses
 
-## [Exception Handling](https://github.com/HidayatRivai2020/Python/tree/main/exception/exception_handling.py)
-- Mechanism to catch and handle exceptions gracefully
-- Prevents programs from crashing when errors occur
-- Exception handling blocks:
-    - `try`: block of code to be attempted that may lead to an exception
-    - `except`: block of code that executes when an exception occurs in try block
-    - `else`: block of code that executes only when no exception occurs in try block
-    - `finally`: block of code that always executes regardless of whether an exception occurs
-- `SyntaxError` can't be executed when raised by python automatically
-- `SyntaxError` can be executed with :
-    - `raise SyntaxError("message")`: manually raise SyntaxError with custom message
-    - `exec("invalid syntax")`: execute string with invalid Python syntax
-    - `eval("invalid expression")`: evaluate string with invalid Python expression
-    - `compile("invalid code", "filename", "exec")`: compile string with syntax errors
-
 ## [Raising Exceptions](https://github.com/HidayatRivai2020/Python/tree/main/exception/raising_exceptions.py)
 - Manually triggering exceptions using the raise statement
 - Useful for validating input or enforcing business rules

@@ -38,3 +38,11 @@ def shadow_with_method():
     print(b)  # prints "HELLO WORLD" 
 shadow_with_method()
 print(b)  # prints "hello world"
+
+# list as an argument
+b = ["hello world"]
+def shadow_with_method(b):   
+    b.append("list")
+    print(b) 
+shadow_with_method(b)
+print(b)  

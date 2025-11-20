@@ -35,6 +35,6 @@ if password == other_password:
 else:
     print("the password is not correct")
 
-# String membership test (fixed typo)
+# String membership test
 if 'pass' in password:
     print('pass')

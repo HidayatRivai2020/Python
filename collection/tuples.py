@@ -19,3 +19,7 @@ print(tuple_in_list)
 # List inside a tuple
 list_in_tuple = (1, 2, [3, 4], 5)  
 print(list_in_tuple)
+
+# tuple without parentheses
+tuple_no_parentheses = 1, 2, 3, 4
+print(tuple_no_parentheses)
